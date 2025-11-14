@@ -1,0 +1,42 @@
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Tetris\Tetris\obj\Debug\MainWindow.g.cs
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Tetris\Tetris\obj\Debug\App.g.cs
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Tetris\Tetris\obj\Debug\Tetris_MarkupCompile.cache
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Tetris\Tetris\obj\Debug\Tetris_MarkupCompile.lref
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Tetris\Tetris\obj\Debug\MainWindow.baml
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Tetris\Tetris\obj\Debug\Tetris.g.resources
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Tetris\Tetris\obj\Debug\Tetris.pdb
+C:\Users\HP\Documents\Visual Studio 2017\Projects\Tetris\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+F:\Sem.4\VB.net Trials\Tetris\Tetris\bin\Debug\Tetris.exe
+F:\Sem.4\VB.net Trials\Tetris\Tetris\bin\Debug\Tetris.pdb
+F:\Sem.4\VB.net Trials\Tetris\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+F:\Sem.4\VB.net Trials\Tetris\Tetris\obj\Debug\MainWindow.g.cs
+F:\Sem.4\VB.net Trials\Tetris\Tetris\obj\Debug\App.g.cs
+F:\Sem.4\VB.net Trials\Tetris\Tetris\obj\Debug\Tetris_MarkupCompile.cache
+F:\Sem.4\VB.net Trials\Tetris\Tetris\obj\Debug\Tetris_MarkupCompile.lref
+F:\Sem.4\VB.net Trials\Tetris\Tetris\obj\Debug\MainWindow.baml
+F:\Sem.4\VB.net Trials\Tetris\Tetris\obj\Debug\Tetris.g.resources
+F:\Sem.4\VB.net Trials\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+F:\Sem.4\VB.net Trials\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.Cache
+F:\Sem.4\VB.net Trials\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+F:\Sem.4\VB.net Trials\Tetris\Tetris\obj\Debug\Tetris.exe
+F:\Sem.4\VB.net Trials\Tetris\Tetris\obj\Debug\Tetris.pdb
+F:\Sem.4\C# Projects\Tetris Game C#\Tetris\bin\Debug\Tetris.exe
+F:\Sem.4\C# Projects\Tetris Game C#\Tetris\bin\Debug\Tetris.pdb
+F:\Sem.4\C# Projects\Tetris Game C#\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+F:\Sem.4\C# Projects\Tetris Game C#\Tetris\obj\Debug\MainWindow.g.cs
+F:\Sem.4\C# Projects\Tetris Game C#\Tetris\obj\Debug\App.g.cs
+F:\Sem.4\C# Projects\Tetris Game C#\Tetris\obj\Debug\Tetris_MarkupCompile.cache
+F:\Sem.4\C# Projects\Tetris Game C#\Tetris\obj\Debug\Tetris_MarkupCompile.lref
+F:\Sem.4\C# Projects\Tetris Game C#\Tetris\obj\Debug\MainWindow.baml
+F:\Sem.4\C# Projects\Tetris Game C#\Tetris\obj\Debug\Tetris.g.resources
+F:\Sem.4\C# Projects\Tetris Game C#\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+F:\Sem.4\C# Projects\Tetris Game C#\Tetris\obj\Debug\Tetris.csproj.GenerateResource.Cache
+F:\Sem.4\C# Projects\Tetris Game C#\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+F:\Sem.4\C# Projects\Tetris Game C#\Tetris\obj\Debug\Tetris.exe
+F:\Sem.4\C# Projects\Tetris Game C#\Tetris\obj\Debug\Tetris.pdb

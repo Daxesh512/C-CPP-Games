@@ -1,0 +1,26 @@
+C:\Documents and Settings\mcleodgr\My Documents\Visual Studio 2005\Projects\pong\pong\obj\Debug\pong.exe
+C:\Documents and Settings\mcleodgr\My Documents\Visual Studio 2005\Projects\pong\pong\obj\Debug\pong.pdb
+C:\Documents and Settings\mcleodgr\My Documents\Visual Studio 2005\Projects\pong\pong\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\mcleodgr\My Documents\Visual Studio 2005\Projects\pong\pong\obj\Debug\pong.Form1.resources
+C:\Documents and Settings\mcleodgr\My Documents\Visual Studio 2005\Projects\pong\pong\obj\Debug\pong.Properties.Resources.resources
+C:\Documents and Settings\mcleodgr\My Documents\Visual Studio 2005\Projects\pong\pong\obj\Debug\pong.csproj.GenerateResource.Cache
+C:\Documents and Settings\mcleodgr\My Documents\Visual Studio 2005\Projects\pong\pong\bin\Debug\pong.exe
+C:\Documents and Settings\mcleodgr\My Documents\Visual Studio 2005\Projects\pong\pong\bin\Debug\pong.pdb
+C:\Documents and Settings\mcleodgr\My Documents\Visual Studio 2005\Projects\pong\pong\bin\Release\pong.exe
+C:\Documents and Settings\mcleodgr\My Documents\Visual Studio 2005\Projects\pong\pong\bin\Release\pong.pdb
+C:\Documents and Settings\mcleodgr\My Documents\Visual Studio 2005\Projects\pong\pong\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\mcleodgr\My Documents\Visual Studio 2005\Projects\pong\pong\obj\Release\pong.Form1.resources
+C:\Documents and Settings\mcleodgr\My Documents\Visual Studio 2005\Projects\pong\pong\obj\Release\pong.Properties.Resources.resources
+C:\Documents and Settings\mcleodgr\My Documents\Visual Studio 2005\Projects\pong\pong\obj\Release\pong.csproj.GenerateResource.Cache
+C:\Documents and Settings\mcleodgr\My Documents\Visual Studio 2005\Projects\pong\pong\obj\Release\pong.exe
+C:\Documents and Settings\mcleodgr\My Documents\Visual Studio 2005\Projects\pong\pong\obj\Release\pong.pdb
+E:\Documents and Settings\Greg\My Documents\Documents\Visual Studio 2008\Projects\Old Projects\Work\Visual Studio\Projects\pong\pong\obj\Release\pong.exe
+E:\Documents and Settings\Greg\My Documents\Documents\Visual Studio 2008\Projects\Old Projects\Work\Visual Studio\Projects\pong\pong\obj\Release\pong.pdb
+E:\Documents and Settings\Greg\My Documents\Documents\Visual Studio 2008\Projects\Old Projects\Work\Visual Studio\Projects\pong\pong\bin\Debug\pong.exe
+E:\Documents and Settings\Greg\My Documents\Documents\Visual Studio 2008\Projects\Old Projects\Work\Visual Studio\Projects\pong\pong\bin\Debug\pong.pdb
+E:\Documents and Settings\Greg\My Documents\Documents\Visual Studio 2008\Projects\Old Projects\Work\Visual Studio\Projects\pong\pong\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\Greg\My Documents\Documents\Visual Studio 2008\Projects\Old Projects\Work\Visual Studio\Projects\pong\pong\obj\Debug\pong.Form1.resources
+E:\Documents and Settings\Greg\My Documents\Documents\Visual Studio 2008\Projects\Old Projects\Work\Visual Studio\Projects\pong\pong\obj\Debug\pong.Properties.Resources.resources
+E:\Documents and Settings\Greg\My Documents\Documents\Visual Studio 2008\Projects\Old Projects\Work\Visual Studio\Projects\pong\pong\obj\Debug\pong.csproj.GenerateResource.Cache
+E:\Documents and Settings\Greg\My Documents\Documents\Visual Studio 2008\Projects\Old Projects\Work\Visual Studio\Projects\pong\pong\obj\Debug\pong.exe
+E:\Documents and Settings\Greg\My Documents\Documents\Visual Studio 2008\Projects\Old Projects\Work\Visual Studio\Projects\pong\pong\obj\Debug\pong.pdb

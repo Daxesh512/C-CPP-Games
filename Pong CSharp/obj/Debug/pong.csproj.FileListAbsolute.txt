@@ -1,0 +1,25 @@
+D:\github\cleod9\CSharp\pong\pong\obj\Debug\pong.exe
+D:\github\cleod9\CSharp\pong\pong\obj\Debug\pong.pdb
+D:\github\cleod9\CSharp\pong\pong\bin\Debug\pong.exe
+D:\github\cleod9\CSharp\pong\pong\bin\Debug\pong.pdb
+D:\github\cleod9\CSharp\pong\pong\obj\Debug\ResolveAssemblyReference.cache
+D:\github\cleod9\CSharp\pong\pong\obj\Debug\pong.Form1.resources
+D:\github\cleod9\CSharp\pong\pong\obj\Debug\pong.Properties.Resources.resources
+D:\github\cleod9\CSharp\pong\pong\obj\Debug\pong.csproj.GenerateResource.Cache
+D:\github\cleod9\CSharp\pong\obj\Debug\pong.exe
+D:\github\cleod9\CSharp\pong\obj\Debug\pong.pdb
+D:\github\cleod9\CSharp\pong\bin\Debug\pong.exe
+D:\github\cleod9\CSharp\pong\bin\Debug\pong.pdb
+D:\github\cleod9\CSharp\pong\obj\Debug\ResolveAssemblyReference.cache
+D:\github\cleod9\CSharp\pong\obj\Debug\pong.Form1.resources
+D:\github\cleod9\CSharp\pong\obj\Debug\pong.Properties.Resources.resources
+D:\github\cleod9\CSharp\pong\obj\Debug\pong.csproj.GenerateResource.Cache
+E:\Projects for code-projects\new\c# projects\PongCSharp-master\bin\Debug\pong.exe
+E:\Projects for code-projects\new\c# projects\PongCSharp-master\bin\Debug\pong.pdb
+E:\Projects for code-projects\new\c# projects\PongCSharp-master\obj\Debug\pong.csprojAssemblyReference.cache
+E:\Projects for code-projects\new\c# projects\PongCSharp-master\obj\Debug\pong.Form1.resources
+E:\Projects for code-projects\new\c# projects\PongCSharp-master\obj\Debug\pong.Properties.Resources.resources
+E:\Projects for code-projects\new\c# projects\PongCSharp-master\obj\Debug\pong.csproj.GenerateResource.cache
+E:\Projects for code-projects\new\c# projects\PongCSharp-master\obj\Debug\pong.csproj.CoreCompileInputs.cache
+E:\Projects for code-projects\new\c# projects\PongCSharp-master\obj\Debug\pong.exe
+E:\Projects for code-projects\new\c# projects\PongCSharp-master\obj\Debug\pong.pdb

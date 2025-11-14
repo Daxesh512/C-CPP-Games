@@ -1,0 +1,21 @@
+2048 GAME In " C Programming "
+
+It's a type of “sliding block puzzle” — think Threes!, on which 2048 is based, 
+or the old-timey game klotski — that's played on an almost Sudoku-like grid. 
+Like Sudoku, it also involves some math.
+
+TIPS & TRICKS
+- Take It Slow
+- Work The Corners
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+
+
+***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
+
+
+***** FOR MORE PROJECTS :- https://code-projects.org/c/project/ *****
+
+
+
+#THANK YOU FOR DOWNLOADING

@@ -1,0 +1,1 @@
+C:\Users\G00348802\Desktop\Minesweeper\Chessboard\Chessboard.csproj;x86

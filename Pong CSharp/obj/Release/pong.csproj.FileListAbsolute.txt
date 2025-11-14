@@ -1,0 +1,8 @@
+D:\github\cleod9\CSharp\pong\bin\Release\pong.exe
+D:\github\cleod9\CSharp\pong\bin\Release\pong.pdb
+D:\github\cleod9\CSharp\pong\obj\Release\ResolveAssemblyReference.cache
+D:\github\cleod9\CSharp\pong\obj\Release\pong.Form1.resources
+D:\github\cleod9\CSharp\pong\obj\Release\pong.Properties.Resources.resources
+D:\github\cleod9\CSharp\pong\obj\Release\pong.csproj.GenerateResource.Cache
+D:\github\cleod9\CSharp\pong\obj\Release\pong.exe
+D:\github\cleod9\CSharp\pong\obj\Release\pong.pdb
